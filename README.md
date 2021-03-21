@@ -18,7 +18,7 @@
 - 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
 - 🗂 **Most Recent Project**: [Overlook Hotel](https://github.com/alexthompson207/overlook)
 - 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking    
-
+<br>
 
 
 <h2 align="center">🧰 Technologies:</h2>
