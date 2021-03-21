@@ -33,5 +33,4 @@
  <img alt="Chai" src="https://img.shields.io/badge/chai-A11404?style=for-the-badge&logo=chai&logoColor=white">
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- <img alt="git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
 </p>
