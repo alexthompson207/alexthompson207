@@ -7,6 +7,8 @@
  <a href="mailto:ahthomps1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
  <a href="https://turing.io/"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 
+
+
 ## 🏔 About Me 
 
 - 😄 **Pronouns**: he/him
@@ -16,6 +18,8 @@
 - 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
 - 🗂 **Most Recent Project**: [Overlook Hotel](https://github.com/alexthompson207/overlook)
 - 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking
+
+
 
 
 <h2 align="center">🧰 Technologies:</h2>
@@ -34,6 +38,9 @@
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
+
+
+
 
 <h2 align="center">📊 Github Stats:</h2>
 <p>
