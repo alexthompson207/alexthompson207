@@ -36,7 +36,7 @@
 </p>
 
 <h2 align="center">📊 Github Stats:</h2>
-<p align="center">
-<img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexthompson207&show_icons=true&theme=dark&hide=stars">
-<img width="40%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthompson207&layout=compact&theme=dark">
-</p>
+
+<img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexthompson207&show_icons=true&theme=dark&hide=stars_private=true">
+<img align="right" width="40%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthompson207&layout=compact&theme=dark_private=true">
+
