@@ -17,9 +17,7 @@
 - 📚 **What I Want To Learn Next**: TypeScript, C#, Cypress
 - 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
 - 🗂 **Most Recent Project**: [Overlook Hotel](https://github.com/alexthompson207/overlook)
-- 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking
-
-
+- 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking  
 
 
 <h2 align="center">🧰 Technologies:</h2>
@@ -38,10 +36,9 @@
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
-
-
-
-
+ 
+ 
+ 
 <h2 align="center">📊 Github Stats:</h2>
 <p>
  <img width="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexthompson207&show_icons=true&theme=tokyonight&hide=stars_private=true">
