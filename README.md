@@ -34,3 +34,9 @@
  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black">
  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
+
+<h2 align="center">📊 Github Stats:</h2>
+<p align="center>
+ <img alt="Github Stats Graph" src="https://github-readme-stats.vercel.app/api?username=alexthompson207&show_icons=true&theme=dark&hide=stars">
+ <img alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthompson207&layout=compact&theme=dark">
+</p>
