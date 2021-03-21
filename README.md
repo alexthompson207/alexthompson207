@@ -37,6 +37,6 @@
 
 <h2 align="center">📊 Github Stats:</h2>
 <p align="center>
-<img alt="GH Stats" src="https://github-readme-stats.vercel.app/api?username=alexthompson207&show_icons=true&theme=dark&hide=stars">
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexthompson207)](https://github.com/alexthompson207/github-readme-stats)
 <img alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthompson207&layout=compact&theme=dark">
 </p>
