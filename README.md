@@ -7,18 +7,18 @@
  <a href="mailto:ahthomps1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
  <a href="https://turing.io/"><img src="https://img.shields.io/badge/Turing-000?style=for-the-badge&logo=turing&logoColor=black" alt="turing portfolio"></a>
 
-### About Me 🏔
+## 🏔 About Me 
 
 - 😄 **Pronouns**: he/him
 - 📝 **Student**: Expected to graduate from [Turing School of Software and Design](https://turing.io/) in June
 - 🌱 **I’m Currently Learning**: React 
 - 📚 **What I Want To Learn Next**: TypeScript, C#, Cypress
-- 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📈 
+- 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
 - 🗂 **Most Recent Project**: [Overlook Hotel](https://github.com/alexthompson207/overlook)
 - 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking
 
 
-<h2 align="center">Technologies:</h2>
+<h2 align="center">🧰 Technologies:</h2>
 
 <p align="center">
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
