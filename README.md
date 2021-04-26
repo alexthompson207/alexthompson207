@@ -13,10 +13,10 @@
 
 - 😄 **Pronouns**: he/him
 - 📝 **Student**: Expected to graduate from [Turing School of Software and Design](https://turing.io/) in June
-- 🌱 **I’m Currently Learning**: React 
-- 📚 **What I Want To Learn Next**: TypeScript, C#, Cypress
+- 🌱 **I’m Currently Learning**: TypeScript, Redux 
+- 📚 **What I Want To Learn Next**: Redux, C#, Express
 - 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
-- 🗂 **Most Recent Project**: [Overlook Hotel](https://github.com/alexthompson207/overlook)
+- 🗂 **Most Recent Project**: [Planet Party](https://github.com/alexthompson207/PlanetParty) & [Current Climate](https://github.com/alexthompson207/current-climate)
 - 🌄 **Other Intrests**: Snowboarding, surfing, backpacking, fly fishing, mountain biking    
 <br>
 
