@@ -12,7 +12,6 @@
 ## 🏔 About Me 
 
 - 😄 **Pronouns**: he/him
-- 📝 **Student**: Expected to graduate from [Turing School of Software and Design](https://turing.io/) in June
 - 🌱 **I’m Currently Learning**: TypeScript, Redux 
 - 📚 **What I Want To Learn Next**: Redux, Ruby on Rail, C#
 - 🧬 **My Background**: Applied Mathematics, Land Surveyoring, Restaurant Management 🧮 📐📏
