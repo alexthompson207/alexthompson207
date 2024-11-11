@@ -1,5 +1,5 @@
 <h1 align="center">Alex Thompson</h1>
-<h2 align="center">Frontend developer currently based in Jackson, Wyoming</h2>
+<h2 align="center">Full-stack developer currently based in Jackson, Wyoming</h2>
 
 
 <p align="center">
